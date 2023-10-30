@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity\\Project\\ARDemo\\Build\\ARDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Unity\\Project\\ARDemo\\Build\\ARDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endColumns": "43",
+                        "endOffsets": "477"
+                    }
+                },
+                {
+                    "source": "D:\\Unity\\Project\\ARDemo\\Build\\ARDemo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,282",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "280,188,507"
+                    },
+                    "to": {
+                        "startLines": "8,10,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "482,576,714",
+                        "endLines": "9,12,16",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "571,709,936"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\y3un9GY\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\e8342893027f71fb568d2e5424162b7e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,360,461",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "207,258,359,460,523"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

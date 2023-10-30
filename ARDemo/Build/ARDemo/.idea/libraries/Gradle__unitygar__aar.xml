@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: unitygar:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unitygar.aar/ce0e82cf6690c28a9cf2ae582d9a21c8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unitygar.aar/ce0e82cf6690c28a9cf2ae582d9a21c8/jars/libs/tango_java_lib.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unitygar.aar/ce0e82cf6690c28a9cf2ae582d9a21c8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
